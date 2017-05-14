@@ -82,9 +82,27 @@
     </Compile>
     <Compile Include="MyMarkers.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Wizard\ProjPage1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wizard\ProjPage1.Designer.cs">
+      <DependentUpon>ProjPage1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wizard\projWard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wizard\projWard.Designer.cs">
+      <DependentUpon>projWard.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizard\ProjPage1.resx">
+      <DependentUpon>ProjPage1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizard\projWard.resx">
+      <DependentUpon>projWard.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

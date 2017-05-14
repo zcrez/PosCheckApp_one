@@ -117,30 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>127, 17</value>
-  </metadata>
-  <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="PosImport.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMHSURBVDhPjZPZT1NBFMbxn9AH3tpigiEG40Y0QaIsURMh
-        JBAElFg1UQFRNEbBjaVFZBMSgUIqUEqxZStoCZRb2rJ0p7SllLJUoAj4oBJJeP6cGcqLT97k5M6dmfM7
-        31luWFjoUVgzPOrZPGjnX2NiqQ62VSncQSXmN4fg3xrGwpYG3u9quNYVsAZaYFiswoi36DdzB8IOtU8n
-        76kct/DF/RhjvhIGsQQkcKx1wLkuZ2ZfbYM50AQjcR6dfwW1q8DGADVcTLhk6hI6LWnonbmDr+5CpkTv
-        f8dAU8sNzCaWajG+IMaotxhDrgKoHEIFA1TpImPrjWfQOp2ETms6ehxCDLryMex5Ri6/JLA3DDhCHDWe
-        p1DP5kJpz4HMkl7KAOVjAmGlLhINxrMEkogOSyq6bdlMzYDzPnHIY079znsMrrBlot2cjNbJhBwGEHEC
-        sZgTgELqDafRPBkHqekKA8mJoi7rdWIZRF0acUyBzi9C42QsGiZizu8DxgQqCqBWoTuKav1xpobWhVrL
-        VAKxeLK+CNO3Rjg3FKgaj4KIizqynwLHcx4ADt7ymSxwSyKo5wpQq49GiykRvh9f0esmKc09QrmWt3sw
-        AmFijveHRq0xnCAqIvBxKg4ScxIqx49Bu1iK4I4N27teNJvimcoh7xPQoPsdGOUdppvBHTtmN5XQL79H
-        q+Uq+jy5GFssR5/7AeqMp4hzAjS+5xheKEbXTDbEWl4PA5Tp+OeqDdGwBztY1PHlShhXajHqL2GOE4EP
-        kDkyMDD3ENOrTXAEZZCQdMQcvyLUQv5NqfUakVoGlesuizyzIUe3MwfurV4S7QZcmyp8nhUymJK822yp
-        pICC26EW8kv7PfnksJ5cVELuyGRrqubnXoAVzLQmwSdrMgwr1UxZrfEkRFrBhVAL+Qr9Cplt/1uWm8ye
-        jkFvIazrUphWm8leFrzbatCu0H0KpzUr5yLCGUCs5Vs1viJS8Uh2QAGdJOd+Tx6JmsIi09a1mi/DTJRo
-        fC/ovT36A+4DOP6vf2fgP77nDmbgL1vCiqQmaMp6AAAAAElFTkSuQmCC
-</value>
-  </data>
 </root>

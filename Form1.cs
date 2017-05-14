@@ -153,6 +153,11 @@ namespace PosCheckApp
             }
         }
 
+        private void menu_CREATEPROJECT_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 
 }
