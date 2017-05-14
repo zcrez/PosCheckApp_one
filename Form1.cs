@@ -13,6 +13,7 @@ using GMap.NET.WindowsForms.ToolTips;
 using System.Net.NetworkInformation;
 using GMap.NET.MapProviders;
 using System.IO;
+using PosCheckApp.CustomMarkers;
 
 namespace PosCheckApp
 {
@@ -134,17 +135,21 @@ namespace PosCheckApp
         {
             if (m_ppts.Count > 0)  //在地图上标示pos点位置
             {
+                GArrowRoute rout = new GArrowRoute("");
                 for (int i = 0; i < m_ppts.Count; i++)
                 {
                     GMapMarker myCity = new GMarkerGoogle(new PointLatLng(m_ppts[i].lat, m_ppts[i].lng), GMarkerGoogleType.green_small);
-                    myCity.ToolTipMode = MarkerTooltipMode.Always;//OnMouseOver;
+                    myCity.ToolTipMode = MarkerTooltipMode.OnMouseOver;
                     myCity.ToolTipText = m_ppts[i].ID;
                     GMapToolTip tip = new GMapToolTip(myCity);
-                    Font DefaultFont = new Font(FontFamily.GenericSansSerif, 9, FontStyle.Bold, GraphicsUnit.Pixel);
+                    Font DefaultFont = new Font(FontFamily.GenericSansSerif, 9, FontStyle.Regular , GraphicsUnit.Pixel);
                     tip.Font = DefaultFont;
                     myCity.ToolTip = tip;
                     objects.Markers.Add(myCity);
+                    rout.Points.Add(new PointLatLng(m_ppts[i].lat, m_ppts[i].lng));
+
                 }
+                routes.Routes.Add(rout);
             }
         }
 

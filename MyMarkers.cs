@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CustomMarkers
+namespace PosCheckApp.CustomMarkers
 {
     using System;
     using System.Drawing;
