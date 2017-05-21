@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WizardDemo">
+</Property><Property Name="解决方案文件" Value="F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\WizardDemo.sln">
+</Property><Property Name="Date" Value="2017年5月21日">
+</Property><Property Name="Time" Value="16:13">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WizardDemo.sln" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo.sln">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\WizardDemo.csproj" Description="项目文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\WizardDemo.csproj">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\Form1.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\Form1.cs">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\Form1.Designer.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\Program.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\Program.cs">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\Properties\Settings.settings" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\Resources\hdr-overview.jpg" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\Resources\hdr-overview.jpg">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\Form1.resx" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\Properties\licenses.licx" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\Properties\licenses.licx">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\Properties\Resources.resx" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardDemo\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="WizardDemo" Source="WizardDemo\WizardDemo.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\WizardDemo.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="WizardDemo" Source="WizardDemo\WizardDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\WizardBase.csproj" Description="项目文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\WizardBase.csproj">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Designers\IntermediateStepDesigner.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Designers\IntermediateStepDesigner.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Pages\IntermediateStep.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Pages\IntermediateStep.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Pages\StartStep.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Pages\StartStep.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Pages\WizardControl.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Pages\WizardControl.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Pages\FinishStep.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Pages\FinishStep.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Structures\Delegates.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Structures\Delegates.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Structures\WizardClickEventArgs.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Structures\WizardClickEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Structures\WizardStepCollection.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Structures\WizardStepCollection.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Designers\WizardDesigner.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Designers\WizardDesigner.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Designers\WizardDesignerActionList.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Designers\WizardDesignerActionList.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Pages\WizardStep.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Pages\WizardStep.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Structures\WizardNextButtonClickEventArgs.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Structures\WizardNextButtonClickEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Converters\WizardStepCollectionConverter.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Converters\WizardStepCollectionConverter.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Editors\WizardStepCollectionEditor.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Editors\WizardStepCollectionEditor.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Converters\WizardCollectionEnumConverter.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Converters\WizardCollectionEnumConverter.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Editors\WizardStepCollectionEnumEditor.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Editors\WizardStepCollectionEnumEditor.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Designers\WizardStepDesigner.cs" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Designers\WizardStepDesigner.cs">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\app.config" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\app.config">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Properties\Settings.settings" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Resources\WindowsSystemStateAnalyzer.ico" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Resources\WindowsSystemStateAnalyzer.ico">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\Properties\Resources.resx" Description="文件已成功备份为 F:\程序开发\PosCheckApp_one\参考代码\WizardControl\WizardDemo\Backup\WizardBase\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="WizardBase" Source="WizardBase\WizardBase.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\WizardBase.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="WizardBase" Source="WizardBase\WizardBase.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WizardDemo.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="WizardDemo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WizardDemo" Source="WizardDemo\WizardDemo.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="WizardBase" Source="WizardBase\WizardBase.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

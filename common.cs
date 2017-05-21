@@ -8,6 +8,7 @@ namespace PosCheckApp
     class PosPT
     {
         public string ID;
+        public string photofile;
         public string photoID;
         public double lat;
         public double lng;
@@ -19,6 +20,7 @@ namespace PosCheckApp
 
         public PosPT()
         {
+            photofile = "";
             this.isValid = false;
         }
     }

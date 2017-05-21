@@ -28,20 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.projPath = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.projName = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // textBox2
+            // projPath
             // 
-            this.textBox2.Location = new System.Drawing.Point(214, 250);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(290, 21);
-            this.textBox2.TabIndex = 11;
+            this.projPath.Location = new System.Drawing.Point(214, 250);
+            this.projPath.Name = "projPath";
+            this.projPath.Size = new System.Drawing.Size(290, 21);
+            this.projPath.TabIndex = 11;
             // 
             // label1
             // 
@@ -79,12 +79,12 @@
             this.label3.TabIndex = 8;
             this.label3.Text = "文件夹:";
             // 
-            // textBox1
+            // projName
             // 
-            this.textBox1.Location = new System.Drawing.Point(214, 192);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(371, 21);
-            this.textBox1.TabIndex = 9;
+            this.projName.Location = new System.Drawing.Point(214, 192);
+            this.projName.Name = "projName";
+            this.projName.Size = new System.Drawing.Size(371, 21);
+            this.projName.TabIndex = 9;
             // 
             // ProjPage1
             // 
@@ -93,12 +93,12 @@
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(660, 503);
             this.ControlBox = false;
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.projPath);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.projName);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "ProjPage1";
             this.Text = "ProjPage1";
@@ -109,11 +109,11 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox projPath;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox projName;
     }
 }

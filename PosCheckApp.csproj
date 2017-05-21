@@ -11,7 +11,8 @@
     <RootNamespace>PosCheckApp</RootNamespace>
     <AssemblyName>PosCheckApp</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
@@ -51,6 +52,12 @@
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="gdalconst_csharp">
+      <HintPath>lib\gdalconst_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="gdal_csharp">
+      <HintPath>lib\gdal_csharp.dll</HintPath>
+    </Reference>
     <Reference Include="GMap.NET.Core">
       <HintPath>bin\Release\GMap.NET.Core.dll</HintPath>
     </Reference>
@@ -59,6 +66,12 @@
     </Reference>
     <Reference Include="GMap.NET.WindowsPresentation">
       <HintPath>bin\Release\GMap.NET.WindowsPresentation.dll</HintPath>
+    </Reference>
+    <Reference Include="ogr_csharp">
+      <HintPath>lib\ogr_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="osr_csharp">
+      <HintPath>lib\osr_csharp.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -70,15 +83,18 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WizardBase">
+      <HintPath>lib\WizardBase.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrowRoute.cs" />
     <Compile Include="common.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="MainView.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="MainView.Designer.cs">
+      <DependentUpon>MainView.cs</DependentUpon>
     </Compile>
     <Compile Include="MyMarkers.cs" />
     <Compile Include="Program.cs" />
@@ -95,8 +111,8 @@
       <DependentUpon>projWard.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="MainView.resx">
+      <DependentUpon>MainView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Wizard\ProjPage1.resx">
       <DependentUpon>ProjPage1.cs</DependentUpon>
@@ -112,7 +128,9 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="app.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

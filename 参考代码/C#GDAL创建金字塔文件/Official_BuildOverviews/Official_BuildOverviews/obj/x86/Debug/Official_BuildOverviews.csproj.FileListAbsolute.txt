@@ -1,0 +1,5 @@
+c:\users\lu\documents\visual studio 2010\Projects\Official_BuildOverviews\Official_BuildOverviews\bin\Debug\Official_BuildOverviews.exe
+c:\users\lu\documents\visual studio 2010\Projects\Official_BuildOverviews\Official_BuildOverviews\bin\Debug\Official_BuildOverviews.pdb
+c:\users\lu\documents\visual studio 2010\Projects\Official_BuildOverviews\Official_BuildOverviews\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lu\documents\visual studio 2010\Projects\Official_BuildOverviews\Official_BuildOverviews\obj\x86\Debug\Official_BuildOverviews.exe
+c:\users\lu\documents\visual studio 2010\Projects\Official_BuildOverviews\Official_BuildOverviews\obj\x86\Debug\Official_BuildOverviews.pdb

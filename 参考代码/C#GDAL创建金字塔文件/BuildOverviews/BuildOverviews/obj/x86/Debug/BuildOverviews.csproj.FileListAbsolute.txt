@@ -1,0 +1,17 @@
+c:\users\lu\documents\visual studio 2010\Projects\BuildOverviews\BuildOverviews\bin\Debug\BuildOverviews.exe
+c:\users\lu\documents\visual studio 2010\Projects\BuildOverviews\BuildOverviews\bin\Debug\BuildOverviews.pdb
+c:\users\lu\documents\visual studio 2010\Projects\BuildOverviews\BuildOverviews\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lu\documents\visual studio 2010\Projects\BuildOverviews\BuildOverviews\obj\x86\Debug\BuildOverviews.Properties.Resources.resources
+c:\users\lu\documents\visual studio 2010\Projects\BuildOverviews\BuildOverviews\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lu\documents\visual studio 2010\Projects\BuildOverviews\BuildOverviews\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lu\documents\visual studio 2010\Projects\BuildOverviews\BuildOverviews\obj\x86\Debug\BuildOverviews.exe
+c:\users\lu\documents\visual studio 2010\Projects\BuildOverviews\BuildOverviews\obj\x86\Debug\BuildOverviews.pdb
+c:\users\lu\documents\visual studio 2010\Projects\BuildOverviews\BuildOverviews\obj\x86\Debug\BuildOverviews.Form1.resources
+F:\程序开发\PosCheckApp_one\参考代码\C#GDAL创建金字塔文件\BuildOverviews\BuildOverviews\obj\x86\Debug\BuildOverviews.exe
+F:\程序开发\PosCheckApp_one\参考代码\C#GDAL创建金字塔文件\BuildOverviews\BuildOverviews\obj\x86\Debug\BuildOverviews.pdb
+F:\程序开发\PosCheckApp_one\参考代码\C#GDAL创建金字塔文件\BuildOverviews\BuildOverviews\bin\Debug\BuildOverviews.exe
+F:\程序开发\PosCheckApp_one\参考代码\C#GDAL创建金字塔文件\BuildOverviews\BuildOverviews\bin\Debug\BuildOverviews.pdb
+F:\程序开发\PosCheckApp_one\参考代码\C#GDAL创建金字塔文件\BuildOverviews\BuildOverviews\obj\x86\Debug\BuildOverviews.csprojResolveAssemblyReference.cache
+F:\程序开发\PosCheckApp_one\参考代码\C#GDAL创建金字塔文件\BuildOverviews\BuildOverviews\obj\x86\Debug\BuildOverviews.Form1.resources
+F:\程序开发\PosCheckApp_one\参考代码\C#GDAL创建金字塔文件\BuildOverviews\BuildOverviews\obj\x86\Debug\BuildOverviews.Properties.Resources.resources
+F:\程序开发\PosCheckApp_one\参考代码\C#GDAL创建金字塔文件\BuildOverviews\BuildOverviews\obj\x86\Debug\BuildOverviews.csproj.GenerateResource.Cache

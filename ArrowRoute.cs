@@ -86,10 +86,22 @@ namespace PosCheckApp.CustomMarkers
             rotateResult[1] = vy;    
         }    
         return rotateResult;    
-    }  
+    }
 
+      public PointLatLng GetCenterPoint()
+      {
+          double lat = 0;
+          double lon = 0;
+          for(int i=0; i<this.Points.Count;i++)
+          {
+              lat += this.Points[i].Lat;
+              lon += this.Points[i].Lng;
+          }
 
-      static GArrowRoute()
+          return new PointLatLng(lat / this.Points.Count, lon / this.Points.Count);
+      }
+
+       static GArrowRoute()
         {
 
             DefaultStroke.Width = 5;
